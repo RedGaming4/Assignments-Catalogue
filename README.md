@@ -1,4 +1,4 @@
-🚀 Codewars Assignments Compilation\
+# 🚀 Codewars Assignments Compilation\
 
 📚 A Journey from Beginner to Advanced
 
