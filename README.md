@@ -1,4 +1,4 @@
-# 🚀 Codewars Assignments Compilation  ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) [![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/small)
+# 🚀 Codewars Assignments Compilation  ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/small)
 
 
 ## 📚 A Journey from Beginner to Advanced
