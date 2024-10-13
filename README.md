@@ -1,6 +1,6 @@
 # 🚀 Codewars Assignments Compilation
 
-📚 A Journey from Beginner to Advanced
+# # 📚 A Journey from Beginner to Advanced
 
 Welcome to my Codewars challenge repository! This is a collection of solutions I’ve completed, starting from when I first began programming to where I am now. These assignments showcase my progress over time, demonstrating both foundational coding skills and the more advanced techniques I’ve learned along the way.
 
