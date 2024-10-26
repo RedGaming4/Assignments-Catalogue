@@ -1,38 +1,31 @@
-# 🚀 Codewars Assignments Compilation  ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![Codewars](https://www.codewars.com/users/RedDoesCoding/badges/small)
+# 📒 Assignments Catalogue
 
+🚀 **Welcome to My Assignments Compilation**  
+This repository is a comprehensive catalogue of all coding assignments I've tackled, spanning a variety of sources such as school coursework, CS50, Codewars, LeetCode, and more. The collection tracks my growth from beginner to advanced challenges, showcasing problem-solving across multiple languages and platforms.
 
-## 📚 A Journey from Beginner to Advanced
+## 📂 Structure
 
-**Welcome to my Codewars challenge repository! This is a collection of solutions I’ve completed, starting from when I first began programming to where I am now. These assignments showcase my progress over time, demonstrating both foundational coding skills and the more advanced techniques I’ve learned along the way.**
+Each folder is categorized by the source and difficulty of assignments for easy navigation:
 
-### 📂 Structure
+- **School Assignments**: Coursework projects that emphasize fundamental programming principles and applied knowledge.
+- **CS50**: Solutions to challenges and problem sets from Harvard's CS50, covering topics like C programming, data structures, and web development.
+- **Codewars**: My journey through various Codewars challenges, organized by difficulty level, from beginner to advanced.
+- **LeetCode**: Solutions to LeetCode problems, with a focus on algorithmic challenges and data structures.
+  
+## 💡 Languages Used
 
-Each folder contains challenges based on difficulty level and the programming language used. Here’s a quick overview:
-
-**Beginner:** My early solutions, focusing on basic logic and problem-solving skills.
-
-**Intermediate:** Challenges where I started to experiment with different algorithms and data structures.
-
-**Advanced:** More complex solutions requiring optimization, efficiency, and deeper knowledge.
-
-#### 💡 Languages Used
+Below are the primary languages used across different assignments:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-##### ✨ What You'll Find
+## ✨ Highlights
 
-Clear, well-commented code for easy understanding (Not promised lol)
-
-Reflections on how I approached the problems, and what I learned from each challenge
-
-A variety of coding techniques applied to solve the same problem in different ways 
+- **Clear Code**: Well-commented and organized for easy understanding.
+- **Reflections**: Personal insights on how I approached each problem and lessons learned.
+- **Varied Techniques**: Exploring different approaches to solve similar problems across languages.
 
 Feel free to explore, learn, and provide feedback! 🙌
