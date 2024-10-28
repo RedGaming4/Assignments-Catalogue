@@ -8,7 +8,7 @@ This repository is a comprehensive catalogue of all coding assignments I've tack
 Each folder is categorized by the source and difficulty of assignments for easy navigation:
 
 - **School Assignments**: Coursework projects that emphasize fundamental programming principles and applied knowledge.
-- **CS50**: Solutions to challenges and problem sets from Harvard's CS50, covering topics like C programming, data structures, and web development.
+- **CS50**: Solutions to challenges and problem sets from Harvard's CS50, covering topics like C programming, Python programming, and AI, data structures, and web development.
 - **Codewars**: My journey through various Codewars challenges, organized by difficulty level, from beginner to advanced.
 - **LeetCode**: Solutions to LeetCode problems, with a focus on algorithmic challenges and data structures.
   
